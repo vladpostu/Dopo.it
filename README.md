@@ -1,8 +1,14 @@
 # Dopo.it
 
-## What it is
+## Disclamer
 
-Dopo.it is an ecommerce-like website that aims to replicate the idea of subito.it, which consists of buying and selling between users without an intermediary. 
+This one is a school project. The project is base on the delivery requirments
+
+## Getting started
+
+Dopo.it is an ecommerce-like website that aims to replicate the idea of subito.it, which consists of buying and selling between users without an intermediary.
+
+You need to use a live server like [xampp](https://www.apachefriends.org/it/index.html)
 
 ## How it works
 
